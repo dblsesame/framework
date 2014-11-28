@@ -1,0 +1,14 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #D0C4AB;
+	font-weight: 400;
+}
+.text-bold {
+	font-weight: 900
+}
+.text-dark {
+	color: #131A2D;
+}
+.row-dark {
+	background: #131A2D;
+}
